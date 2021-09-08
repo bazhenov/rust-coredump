@@ -1,0 +1,9 @@
+[package]
+name = "rust-debugging"
+version = "0.1.0"
+edition = "2018"
+
+[dependencies]
+
+[profile.release]
+debug = 2
